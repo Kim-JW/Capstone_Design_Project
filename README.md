@@ -23,7 +23,7 @@
 
 ## System Description
 
-![system](./img/system.jpg ) 
+![system](./img/system.png ) 
 
 ### RaspberryPi
 
